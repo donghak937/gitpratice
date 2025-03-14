@@ -2,5 +2,5 @@
 using namespace std;
 
 int main (){
-    cout << "C1" << endl;
+    cout << "C2" << endl;
 }
